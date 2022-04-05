@@ -19,7 +19,7 @@ ____
 ## General Objectives(our Research Questions)
 
 
-*Be able to create fingerprints 
+Be able to create fingerprints 
 ## Specific Objectives
 *
 # Reference_Source
@@ -31,11 +31,11 @@ ___
 # Technologies
 
 
-*Python     version: 3.8  
+* Python     version: 3.8  
 ___
 # Package<br>
-*Matplotlib version:3.2.2  
-*Numpy      version:1.21.5  
+* Matplotlib version:3.2.2  
+* Numpy      version:1.21.5  
 ___
 # Setup
 
@@ -52,9 +52,9 @@ ___
 # Team_Members:
 
 
-*Luis Aarón Nieto Cruz  
-*Jadiel Zúñiga Rodriguez  
-*Miguel Ángel Zamorano Presa  
+* Luis Aarón Nieto Cruz  
+* Jadiel Zúñiga Rodriguez  
+* Miguel Ángel Zamorano Presa  
 
 
 
