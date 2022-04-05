@@ -1,5 +1,6 @@
 # Dynamic_Systems_Fingerprint_Model
 UNAM-TICs-Dynamic Systems "Proyect "
+___
 ## Table of Contents
 * [Proyect Overview](#Proyect_Overview)
 * [Reference_Source](#Reference_Source)
@@ -8,6 +9,9 @@ UNAM-TICs-Dynamic Systems "Proyect "
 * [Technologies](#Technologies)
 * [Setup](#Setup)
 * [Team_Members](#Team_Members)
+
+
+____
 #Proyect_Overview:
 
 
@@ -23,14 +27,16 @@ UNAM-TICs-Dynamic Systems "Proyect "
 ##
 
 
-##
+___
 #Technologies
 
 
-*Python     version: 3.8
-#Packages
-*Matplotlib version:3.2.2
-*Numpy      version:1.21.5
+*Python     version: 3.8  
+___
+#Package<br>
+*Matplotlib version:3.2.2  
+*Numpy      version:1.21.5  
+___
 #Setup
 
 
@@ -42,12 +48,13 @@ $chmod 700
 $./fpmodel.pynb
 
 ```
+___
 #Team_Members:
 
 
-*Luis Aarón Nieto Cruz
-*Jadiel Zúñiga Rodriguez
-*Miguel Ángel Zamorano Presa
+*Luis Aarón Nieto Cruz  
+*Jadiel Zúñiga Rodriguez  
+*Miguel Ángel Zamorano Presa  
 
 
 
