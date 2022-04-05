@@ -12,44 +12,44 @@ ___
 
 
 ____
-#Proyect_Overview:
+# Proyect_Overview:
 
 
 
-##General Objectives(our Research Questions)
+## General Objectives(our Research Questions)
 
 
 *Be able to create fingerprints 
-##Especific Objectives
+## Specific Objectives
 *
-#Reference_Source
+# Reference_Source
 *
 ##
 
 
 ___
-#Technologies
+# Technologies
 
 
 *Python     version: 3.8  
 ___
-#Package<br>
+# Package<br>
 *Matplotlib version:3.2.2  
 *Numpy      version:1.21.5  
 ___
-#Setup
+# Setup
 
 
 To run this project,just clone the repo
 and go to fpmodel.pynb
-```
+```shell
 $cd
 $chmod 700
 $./fpmodel.pynb
 
 ```
 ___
-#Team_Members:
+# Team_Members:
 
 
 *Luis Aarón Nieto Cruz  
