@@ -61,9 +61,9 @@ ___
 # Team_Members:
 
 
-* Luis Aarón Nieto Cruz  
-* Jadiel Zúñiga Rodriguez  
-* Miguel Ángel Zamorano Presa  
+* Luis Aarón Nieto Cruz.
+* Jadiel Zúñiga Rodriguez.  
+* Miguel Ángel Zamorano Presa.  
 
 
 
