@@ -17,7 +17,9 @@ ____
 
 
 ## General Objectives(our Research Questions)
-
+Fingerprints Growth formation pattern is dicted by highly complex interactions of múltiple inicial contions, listed  below , 
+The main goal is to compute the discret ecuation of the paper "" published by , this we Home will allow us to create fingerprints give a range of viable inicial contions 
+To Analize possible pattern designs,   
 
 Be able to create fingerprints 
 ## Specific Objectives
