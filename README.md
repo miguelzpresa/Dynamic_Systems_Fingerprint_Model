@@ -8,8 +8,7 @@ ____
 * [Formulas](#Formulas)
 * [Justification](#Justification)
 * [Hypothesis](#Hypothesis)
-* [General_Objectives](#General_Objectives_(our_Research_Questions))
-* [Specific_Objectives](#Specific_Objectives)
+* [Goals](#Goals)
 * [Technologies](#Technologies)
 * [Packages](#Packages)
 * [Setup](#Setup)
@@ -25,6 +24,9 @@ This project aims to develop a model for fingerprint formation.
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20patterns%202.jpg 'Fingerprints')
 
 # Introduction
+Fingerprints Growth formation pattern is dicted by highly complex interactions of múltiple initial contions, listed  below. The main goal is to compute the discret ecuation of the paper " fingerprint formation model published in the scientific journal EUROPHYSICS LETTERS, "DOI: 10.1209/epl/i2004-10161-2""  this we Home will allow us to create fingerprints give a range of viable inicial conditions.
+
+ 
 ## What are fingerprints?
 Fingerprints are skin patterns with friction ridges. Our fingers, palms and soles are characterized by ridges (hills) and valleys (furrows). Their formation occurs during fetal development, beginning at approximately the 10th week of gestation, being completed by the 17th week, and remaining throughout life.
 
@@ -49,7 +51,10 @@ There are three basic patterns of fingerprints:
 
 # Justification
 ### Why is it going to be done?
-The biggest inspiration for this proyect comes from the work of Patterns in Nature by Alan Turing.  stripes zebras,coats of cats ,leoards and cheetahs are surprisingly unique ,what makes stripes a tool for identify one animal from the rest ,Fingerprints are like our stripes , Turing’s theory was elegant and simple: any repeating natural pattern could be created by the interaction of two things — molecules, cells, whatever — with particular characteristics. Through a mathematical principle he called ‘reaction–diffusion’, these two components would spontaneously self-organise into spots, stripes, rings, swirls or dappled blobs.
+The biggest inspiration for this proyect comes from the work of Patterns in Nature by Alan Turing.  stripes zebras,coats of cats ,leopards and cheetahs are surprisingly unique ,what makes stripes a tool for identify one animal from the rest ,Fingerprints are like our stripes.   
+
+
+ Turing’s theory was elegant and simple: any repeating natural pattern could be created by the interaction of two things — molecules, cells, whatever — with particular characteristics. Through a mathematical principle he called ‘reaction–diffusion’, these two components would spontaneously self-organise into spots, stripes, rings, swirls or dappled blobs.
 "https://ideas.ted.com/how-the-zebra-got-its-stripes-with-alan-turing/"
 
 # Limitations
@@ -71,24 +76,14 @@ Compute a fingerprint formation model published in the scientific journal EUROPH
 
 
 ____
-# Hipotheis
+# Hipothesis
 * Anisotropic laws are true (locally)(inplace stress distribution)
 * Stability in the solutions of the ecuations
 Given that no person has the same attributes than another person, the expected result is that no two fingerprints analyzed will be the same.
 * The stress field anticipates the direction of the ridge system and also predicts in what  areas buckling will take place first
 * Von Kallman Ecuations will perform as planned to calculate the buckling patterns
 
-# General_Objectives_(our_Research_Questions)
-Fingerprints Growth formation pattern is dicted by highly complex interactions of múltiple inicial contions, listed  below. The main goal is to compute the discret ecuation of the paper "" published by , this we Home will allow us to create fingerprints give a range of viable inicial contions 
-This will also help analyze possible pattern designs and classify the characteristhics that define certain fingerprints. While we want to be able to create or own fingerprints, this could also help model fingerprints using existing data.
 
-
-# Specific_Objectives
-* Create a set of functions to model fingerprints given certain characteristics
-* Using real data, model the fingerprints with the given information of the person  
-* Analize the patterns that are shown to us
-* Declare standards for certain forms of fingerprints
-* Be able to create fingerprints
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20examples.jpg 'Fingerprint models')
 
