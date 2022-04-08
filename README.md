@@ -86,7 +86,7 @@ ____
 * Stability in the solutions of the ecuations
 Given that no person has the same attributes than another person, the expected result is that no two fingerprints analyzed will be the same.
 * The stress field anticipates the direction of the ridge system and also predicts in what  areas buckling will take place first
-* Von Kallman Ecuations will perform as planned to calculate the buckling patterns
+* Von Karman Ecuations will perform as planned to calculate the buckling patterns
 
 
 
