@@ -1,5 +1,6 @@
 # Dynamic_Systems_Fingerprint_Model
-UNAM-TICs-Dynamic Systems "Project"
+"Final Project",UNAM-TICs-Dynamic Systems 2022-1 class,taught by Dr. Victor de la Luz 
+
 
 ____
 ## Table of Contents
